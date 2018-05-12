@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/200
     wikipedia: http://en.wikipedia.org/wiki/Eleanor_H._Porter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36401#The-Turn-of-the-Tide--The-Story-of-How-Margaret-Solved-Her-Problem
 gutenberg_issued: '2011-06-12'
 gutenberg_type: Text
 identifiers:
